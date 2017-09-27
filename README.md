@@ -10,3 +10,5 @@ Colorpicker esta creado como un componente.
 
 que se agregar dentro de la pagina deseada mediante la etiqueta
 <app-color-picker>, dentro de cualquiera de sus componentes.
+
+Gracias...
